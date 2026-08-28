@@ -1,22 +1,13 @@
 {
   "expo": {
-    "name": "escuadron",
-    "slug": "snack-99373fe2-ff0f-45e5-a68c-e23f4618aa4b",
+    "name": "escuadron-apk",
+    "slug": "escuadron-apk",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "newArchEnabled": true,
-    "splash": {
-      "image": "./assets/splash-icon.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "ios": {
-      "supportsTablet": true
-    },
     "android": {
       "package": "com.escuadronseguridad.apk"
-    }
+    },
+    "platforms": ["android"]
   }
 }
