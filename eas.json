@@ -5,6 +5,13 @@
       "android": {
         "buildType": "apk"
       }
-    }
+    },
+    "internal": {
+      "distribution": "internal",
+      "android": {
+        "buildType": "apk"
+      }
+    },
+    "production": {}
   }
 }
