@@ -1,11 +1,3 @@
-{
-  "expo": {
-    "name": "escuadron-apk",
-    "slug": "escuadron-apk",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "android": {
-      "package": "com.escuadronseguridad.apk"
-    }
-  }
+"android": {
+  "package": "com.escuadronseguridad.apk"
 }
