@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "escuadron",
-    "slug": "snack-d97376f2-ff0f-45e5-ad0c-ef2f4618aa4b",
+    "slug": "snack-99373fe2-ff0f-45e5-a68c-e23f4618aa4b",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -16,15 +16,7 @@
       "supportsTablet": true
     },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
-      "edgeToEdgeEnabled": true
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    },
-    "description": "Apk"
+      "package": "com.escuadronseguridad.apk"
+    }
   }
 }
